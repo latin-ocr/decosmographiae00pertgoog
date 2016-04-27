@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decosmographiae00pertgoog_0092.png"; bbox 0 0 2752 4844; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 313 1829 906 1950">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 313 1829 906 1950">
+     <span class='ocr_line' id='line_1_1' title="bbox 313 1829 906 1950; baseline 0.002 -7"><span class='ocrx_word' id='word_1_1' title='bbox 313 1830 506 1944; x_wconf 88' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_2' title='bbox 542 1829 906 1950; x_wconf 83' lang='lat' dir='ltr'>SECVNDVS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 59 2050 1163 2262">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 59 2050 1163 2262">
+     <span class='ocr_line' id='line_1_2' title="bbox 59 2050 1163 2129; baseline 0.001 -5"><span class='ocrx_word' id='word_1_3' title='bbox 59 2050 126 2124; x_wconf 88' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 155 2050 311 2128; x_wconf 84' lang='lat' dir='ltr'><strong>LIBRIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 343 2054 485 2129; x_wconf 86' lang='lat' dir='ltr'><strong>MANV</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 516 2052 726 2129; x_wconf 76' lang='lat' dir='ltr'><strong>SCRIPTIS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 753 2050 1163 2129; x_wconf 84' lang='lat' dir='ltr'><strong>OOSMOGRAPHIAE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 523 2186 696 2262; baseline 0.017 -3"><span class='ocrx_word' id='word_1_8' title='bbox 523 2186 696 2262; x_wconf 84' lang='lat' dir='ltr'><strong>ETHIOI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 511 2568 711 2594">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 511 2568 711 2594">
+     <span class='ocr_line' id='line_1_4' title="bbox 511 2568 711 2594; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 511 2568 711 2594; x_wconf 46' lang='grc' dir='ltr'><strong>ψ.-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1380 4844">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1380 4844">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1380 4844; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1380 4844; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
